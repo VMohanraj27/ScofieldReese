@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ScofieldReese
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Participating Kaggle 
-- 💞️ I’m looking to collaborate on myself as ML Engineer
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
